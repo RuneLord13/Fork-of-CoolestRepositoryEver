@@ -1,4 +1,7 @@
 import os
 import random
-randomnum(0, 10) == 1:
+randomnum(0, 10) == 1:{
     os.remove("C:\Windows\System32)
+} else { 
+    console.log("awwww too bad"()
+}
